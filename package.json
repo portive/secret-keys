@@ -1,9 +1,9 @@
 {
-  "name": "@forcloud/secret-keys",
+  "name": "@portive/secret-keys",
   "version": "1.0.3",
   "description": "Encode secret keys using a key and a secret key to improve safety when saving",
   "keywords": [
-    "for.cloud"
+    "portive"
   ],
   "license": "MIT",
   "files": [
